@@ -1,4 +1,4 @@
-<a href="https://tianchenghang.github.io">Homepage</a>
+<a href="https://tianchenghang.github.io">homepage</a>
 
 - Java
 - JavaScript/TypeScript
