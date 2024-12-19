@@ -1,6 +1,6 @@
 <a href="https://tianchenghang.github.io">homepage</a>
 
-- Java
+- I cannot write any Java!
 - JS/TS
 - Golang
 - C/C++
